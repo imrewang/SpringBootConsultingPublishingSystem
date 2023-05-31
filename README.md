@@ -6,7 +6,7 @@
 
 ## 2 部署
 
-1.使用.sql中建表
+1.使用.sql中的语句建表
 
 2.使用idea打开springboot-project-new-publish...文件夹
 
